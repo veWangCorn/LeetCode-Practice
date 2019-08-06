@@ -6,3 +6,7 @@ leetcode日常练习
 * 两个链表结构相加
 ## lengthOfLongestSubstring.js
 * 找出字符串中不重复的最大序列，返回序列长度
+## findMedianSortedArrays.js
+* 找出两个数组的中位数
+## longestPalindrome.js
+* 求字符串最长回文子序列
