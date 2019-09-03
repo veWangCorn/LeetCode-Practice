@@ -10,3 +10,9 @@ leetcode日常练习
 * 找出两个数组的中位数
 ## longestPalindrome.js
 * 求字符串最长回文子序列
+## convert.js
+* 字符串Z字形排列
+## reverse.js
+* 有符号的整数反转
+## myAtoi.js
+* 字符串转换成整数
